@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sisnara.PaginaInicialTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 69.74 s -- in sisnara.PaginaInicialTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 69.76 s -- in sisnara.PaginaInicialTest

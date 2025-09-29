@@ -28,7 +28,7 @@ A continuación se describen los pasos para descargar e instalar el template en 
 2. Importar el proyecto en el IDE, recordar hacerlo como proyecto de tipo “Maven project”.
 3. Al finalizar la importación, el proyecta está listo para usarse.
 
-## Automatización de Mercado Libre ⚙️
+## Automatización de Ministerio de la Mujer ⚙️
 
 A continuación se presenta el feature realizado en cucumber para las pruebas automatizadas
 

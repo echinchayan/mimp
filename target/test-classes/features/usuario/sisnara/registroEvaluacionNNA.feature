@@ -1,4 +1,3 @@
-@HU013
 Feature: HU013 Registro de Evaluacion NNA
 
   Scenario Outline: Validar cabeceras de grilla al ingresar al módulo "Evaluación NNA"
@@ -13,7 +12,7 @@ Feature: HU013 Registro de Evaluacion NNA
     Given cargamos la pagina SISNARA
     When ingresamos al modulo EVALUACION, submodulo Evaluacion NNA
     Then debe validar que cada fila tiene Bandeja de documentos y Derivar
-  @CP003
+
   Scenario Outline: Validar liste documentos asociados a Evaluación NNA
     Given cargamos la pagina SISNARA
     When ingresamos al modulo EVALUACION, submodulo Evaluacion NNA
@@ -26,7 +25,7 @@ Feature: HU013 Registro de Evaluacion NNA
     Examples:
       | expediente              |
       | 002581-2025-MIMP/DA-NNA|
-    @CP004
+
   Scenario Outline: Validar Derivar Expediente
     Given cargamos la pagina SISNARA
     When ingresamos al modulo EVALUACION, submodulo Evaluacion NNA
